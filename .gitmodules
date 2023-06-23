@@ -1,0 +1,3 @@
+[submodule "ModbusRTUSlave"]
+	path = ModbusRTUSlave
+	url = https://github.com/CMB27/ModbusRTUSlave

@@ -1,3 +1,6 @@
 [submodule "ModbusRTUSlave"]
 	path = ModbusRTUSlave
 	url = https://github.com/dconradSukup/ModbusRTUSlave
+[submodule "submodulesTest2"]
+	path = submodulesTest2
+	url = https://github.com/dconradSukup/submodulesTest2
